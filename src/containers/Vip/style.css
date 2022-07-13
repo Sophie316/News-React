@@ -1,0 +1,8 @@
+.vip {
+    border: 1px solid black;
+    margin: 10px;
+    min-height: 100px;
+    line-height: 100px;
+    text-align: center;
+    background-color: white;
+}
